@@ -1,1 +1,3 @@
 fsfljaljf;a
+コンフリクトを起こしたい
+git reset --hard をどうにかしたい
